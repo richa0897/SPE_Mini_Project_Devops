@@ -1,8 +1,8 @@
 ---
-- name: Pull docker image of devopscalculator
+- name: Pull docker image of devops_calculator
   hosts: localhost
   tasks:
-    - name: Pull devopscalculator devops image
+    - name: Pull devops_calculator devops image
       docker_image:
         name: richavarma/my_docker_repo
         source: pull
