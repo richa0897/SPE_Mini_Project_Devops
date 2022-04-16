@@ -45,7 +45,7 @@ public class Calculator {
 
 
                     break;
-                /*case 3:
+                case 3:
                     // find power
                     System.out.print("Enter the first number : ");
                     number1 = scanner.nextDouble();
@@ -61,7 +61,7 @@ public class Calculator {
                     System.out.println("Natural log of "+number1+" is : " + calculator.naturalLog(number1));
                     System.out.println("\n");
 
-                    break;*/
+                    break;
                 default:
                     System.out.println("Exiting....");
                     return;
@@ -87,7 +87,7 @@ public class Calculator {
     }
 
 
-    /*public double power(double number1, double number2) {
+    public double power(double number1, double number2) {
         logger.info("[POWER - " + number1 + " RAISED TO] " + number2);
         double result = Math.pow(number1,number2);
         logger.info("[RESULT - POWER] - " + result);
@@ -111,7 +111,7 @@ public class Calculator {
         }
         logger.info("[RESULT - NATURAL LOG] - " + result);
         return result;
-    }*/
+    }
     public double fact(double num) {
         double facto = 1;
         for(int i = 1; i <= num; ++i)
