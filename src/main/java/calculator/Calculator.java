@@ -12,7 +12,7 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-	//adding comment 1 for testing trigger
+	//adding comment for testing trigger
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
         double number1, number2;
