@@ -1,3 +1,7 @@
 2022-04-16 19:26:43.691 [main] INFO  calculator.Calculator - [FACTORIAL] - 5.0
 2022-04-16 19:26:43.702 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 120.0
 
+2022-04-16 19:57:53.541 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 2.0
+2022-04-16 19:57:53.559 [main] INFO  calculator.Calculator - [RESULT - POWER] - 16.0
+2022-04-16 19:58:04.318 [main] INFO  calculator.Calculator - [NATURAL LOG] - 6.0
+2022-04-16 19:58:04.319 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 1.791759469228055
