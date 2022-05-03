@@ -12,7 +12,8 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-	//adding comment
+	//adding comment 12
+        //adding comment 
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
         double number1, number2;
