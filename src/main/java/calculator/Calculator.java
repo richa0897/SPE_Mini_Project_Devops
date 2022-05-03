@@ -12,7 +12,7 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-	//adding comments for testing trigger in jenkins
+	//adding comments for testing trigger in jenkin
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
         double number1, number2;
