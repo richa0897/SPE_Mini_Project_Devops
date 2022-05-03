@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class CalculatorTest {
     private static final double DELTA = 1e-15;
-    //a test line
+
     Calculator calculator = new Calculator();
 
     @Test
