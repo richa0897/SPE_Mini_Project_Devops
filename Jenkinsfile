@@ -7,7 +7,7 @@ pipeline {
   stages {
     stage('GIT CLONE') {
       steps {
-        git url: 'https://github.com/richa0897/TestRepo.git', branch: 'main'
+        git url: 'https://github.com/richa0897/TestRepo.git', branch: 'master'
       }
     }
     stage('MVN COMPILE') {
