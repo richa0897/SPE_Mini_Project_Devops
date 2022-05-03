@@ -13,7 +13,7 @@ public class Calculator {
 
     public static void main(String[] args) {
 	//adding comment 12
-        //changing a line
+        //changing a line ty
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
         double number1, number2;
